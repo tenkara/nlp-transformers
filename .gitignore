@@ -2,4 +2,15 @@
 .env
 **/data/**
 requirements.txt
-```
+**/data/**
+.tsv
+.csv
+.npy
+.npz
+**/model/**
+**/*model/**
+**/val/**
+**/venv*/*
+**/images/**
+**/model*/**
+**/train/**
